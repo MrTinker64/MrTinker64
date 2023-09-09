@@ -1,4 +1,4 @@
-#About me
+# About me
 
 Interests:
 Reading, robotics, astronomy, math, science, programming, Jazz (tenor saxophone & piano)
