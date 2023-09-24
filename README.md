@@ -4,6 +4,8 @@ Reading, robotics, astronomy, math, science, programming, Jazz (tenor saxophone 
 https://www.sfunityrobotics.com/
 Team #9038 SFR Rookie All 🌟
 
+![Avi's GitHub Wrapped](https://api.githubtrends.io/user/svg/MrTinker64/repos?time_range=six_months&group=other&theme=dark)
+
 <details>
   <summary> Github Stats 📊</summary>
   
