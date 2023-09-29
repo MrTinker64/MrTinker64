@@ -9,7 +9,7 @@ Team #9038 SFR Rookie All 🌟
 <details>
   <summary> Github Stats 📊</summary>
   
-  [![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTinker64)]
+  ![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTinker64)
   
 </details>
 
