@@ -1,5 +1,5 @@
 ## Interests:
-Reading, robotics, astronomy, math, science, programming, Jazz (tenor saxophone & piano), geocaching
+Robotics, astronomy, math, science, programming, Jazz (tenor saxophone & piano), reading, sailing, geocaching
 
 https://www.sfunityrobotics.com/
 Team #9038 SFR Rookie All 🌟
