@@ -13,8 +13,8 @@ Team #9038 SFR Rookie All 🌟
 </details>
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#244](https://github.com/SFUnity/Alcatraz/issues/244) in [SFUnity/Alcatraz](https://github.com/SFUnity/Alcatraz)
-2. ❗ Opened issue [#244](https://github.com/SFUnity/Alcatraz/issues/244) in [SFUnity/Alcatraz](https://github.com/SFUnity/Alcatraz)
+1. 🎉 Merged PR [#246](https://github.com/SFUnity/Alcatraz/pull/246) in [SFUnity/Alcatraz](https://github.com/SFUnity/Alcatraz)
+2. 💪 Opened PR [#246](https://github.com/SFUnity/Alcatraz/pull/246) in [SFUnity/Alcatraz](https://github.com/SFUnity/Alcatraz)
 3. 🔒 Closed issue [#187](https://github.com/SFUnity/Alcatraz/issues/187) in [SFUnity/Alcatraz](https://github.com/SFUnity/Alcatraz)
 <!--END_SECTION:activity-->
 
