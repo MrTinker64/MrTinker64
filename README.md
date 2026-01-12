@@ -13,9 +13,9 @@ Team #9038 SFR Rookie All 🌟
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#246](https://github.com/SFUnity/Alcatraz/pull/246) in [SFUnity/Alcatraz](https://github.com/SFUnity/Alcatraz)
-2. 💪 Opened PR [#246](https://github.com/SFUnity/Alcatraz/pull/246) in [SFUnity/Alcatraz](https://github.com/SFUnity/Alcatraz)
-3. 🔒 Closed issue [#187](https://github.com/SFUnity/Alcatraz/issues/187) in [SFUnity/Alcatraz](https://github.com/SFUnity/Alcatraz)
+1. ❗ Opened issue [#3](https://github.com/SFUnity/Farallon/issues/3) in [SFUnity/Farallon](https://github.com/SFUnity/Farallon)
+2. ℹ️ Labeled issue [#2](https://github.com/SFUnity/Farallon/issues/2) in [SFUnity/Farallon](https://github.com/SFUnity/Farallon)
+3. ❗ Opened issue [#2](https://github.com/SFUnity/Farallon/issues/2) in [SFUnity/Farallon](https://github.com/SFUnity/Farallon)
 <!--END_SECTION:activity-->
 
 <!--
