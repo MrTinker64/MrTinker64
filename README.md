@@ -13,9 +13,9 @@ Team #9038 SFR Rookie All 🌟
 </details>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/SFUnity/Farallon/issues/3) in [SFUnity/Farallon](https://github.com/SFUnity/Farallon)
-2. ℹ️ Labeled issue [#2](https://github.com/SFUnity/Farallon/issues/2) in [SFUnity/Farallon](https://github.com/SFUnity/Farallon)
-3. ❗ Opened issue [#2](https://github.com/SFUnity/Farallon/issues/2) in [SFUnity/Farallon](https://github.com/SFUnity/Farallon)
+1. ℹ️ Labeled issue [#4](https://github.com/SFUnity/Farallon/issues/4) in [SFUnity/Farallon](https://github.com/SFUnity/Farallon)
+2. ❗ Opened issue [#4](https://github.com/SFUnity/Farallon/issues/4) in [SFUnity/Farallon](https://github.com/SFUnity/Farallon)
+3. ℹ️ Labeled issue [#2](https://github.com/SFUnity/Farallon/issues/2) in [SFUnity/Farallon](https://github.com/SFUnity/Farallon)
 <!--END_SECTION:activity-->
 
 <!--
