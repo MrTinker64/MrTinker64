@@ -13,9 +13,9 @@ Team #9038 SFR Rookie All 🌟
 </details>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#85](https://github.com/SFUnity/2026/issues/85) in [SFUnity/2026](https://github.com/SFUnity/2026)
-2. ℹ️ Labeled issue [#53](https://github.com/SFUnity/2026/issues/53) in [SFUnity/2026](https://github.com/SFUnity/2026)
-3. ℹ️ Assigned issue [#63](https://github.com/SFUnity/2026/issues/63) in [SFUnity/2026](https://github.com/SFUnity/2026)
+1. ℹ️ Assigned issue [#52](https://github.com/SFUnity/2026/issues/52) in [SFUnity/2026](https://github.com/SFUnity/2026)
+2. ℹ️ Assigned issue [#66](https://github.com/SFUnity/2026/issues/66) in [SFUnity/2026](https://github.com/SFUnity/2026)
+3. ℹ️ Assigned issue [#66](https://github.com/SFUnity/2026/issues/66) in [SFUnity/2026](https://github.com/SFUnity/2026)
 <!--END_SECTION:activity-->
 
 <!--
