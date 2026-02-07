@@ -13,9 +13,9 @@ Team #9038 SFR Rookie All 🌟
 </details>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#111](https://github.com/SFUnity/Claude-the-alligator/issues/111) in [SFUnity/Claude-the-alligator](https://github.com/SFUnity/Claude-the-alligator)
-2. ℹ️ Assigned issue [#110](https://github.com/SFUnity/Claude-the-alligator/issues/110) in [SFUnity/Claude-the-alligator](https://github.com/SFUnity/Claude-the-alligator)
-3. ❗ Opened issue [#110](https://github.com/SFUnity/Claude-the-alligator/issues/110) in [SFUnity/Claude-the-alligator](https://github.com/SFUnity/Claude-the-alligator)
+1. 🔒 Closed issue [#113](https://github.com/SFUnity/Claude-the-alligator/issues/113) in [SFUnity/Claude-the-alligator](https://github.com/SFUnity/Claude-the-alligator)
+2. ℹ️ Assigned issue [#113](https://github.com/SFUnity/Claude-the-alligator/issues/113) in [SFUnity/Claude-the-alligator](https://github.com/SFUnity/Claude-the-alligator)
+3. ❗ Opened issue [#113](https://github.com/SFUnity/Claude-the-alligator/issues/113) in [SFUnity/Claude-the-alligator](https://github.com/SFUnity/Claude-the-alligator)
 <!--END_SECTION:activity-->
 
 <!--
